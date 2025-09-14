@@ -10,6 +10,6 @@ Grimoire {{< /hextra/hero-headline >}}
 
 
 {{< cards >}}
-    {{< card link="rules" title="Regeln" image="images/grimwildcover.webp" >}}
-    {{< card link="rules/grimwild/grimwild-system-notes-1-pager" title="Grimwild" image="images/grimwildcover.webp" >}}
+    {{< card link="rules" title="Regeln" image="https://images.unsplash.com/photo-1423592707957-3b212afa6733?q=80&w=2064&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" >}}
+    {{< card link="rules/grimwild" title="Grimwild" image="images/grimwildcover.webp" >}}
 {{< /cards >}}
