@@ -3,7 +3,7 @@ Als Gruppe wird eine **Adventuring Party** kreiert indem mit ein paar Begriffen 
 
 Ein Charakter beginnt mit zwei Backgrounds und einem **Adventurer Path** (dem Äquivalent einer Klasse). Zusätzlich werden wie üblich **Stats**, **Traits & Desires** und **Bonds** vergeben um den Charakter auszubauen.
 
-Es werden in der Gruppe und individuell **Story/Character Arcs** festgelegt auf die hingespielt werden.
+Es werden in der Gruppe und individuell **Story/Character Arcs** festgelegt auf welche hingespielt wird.
 
 ## Core Mechanik
 Seite 12
