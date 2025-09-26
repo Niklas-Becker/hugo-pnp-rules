@@ -121,7 +121,7 @@ Seite 35
 
 Mehrere Challenges können zusammen verknüpft werden, um komplexere Situationen darzustellen. 
 
-![](/images/grimwild-linked-challenge-1)
+![](/images/grimwild-linked-challenge-1.png)
 
 ![](/images/grimwild-linked-challenge-2.png)
 
