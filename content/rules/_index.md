@@ -1,10 +1,10 @@
 ---
-title: Grimwild
+title: Pen & Paper Grimoire
 layout: hextra-rules
 ---
 
-Hier findest du diverse Regeln zu {{< rawhtml >}}<span style="color:green;font-weight:bold">Grimwild</span>{{< /rawhtml >}}
+Hier gibt es für (hoffentlich) diverse Pen & Paper Rollenspiele Regeln für dich und mich zum nachschlagen.  
+Fang vielleicht hier an:  
 {{< cards >}}
-  {{< card link="grimwild/grimwild-player-rules" title="Spieler-Regeln">}}
-  {{< card link="grimwild/grimwild-gm-rules" title="Spielleiter-Regeln" >}}
+  {{< card link="grimwild/player-rules" title="Grimwild" >}}
 {{< /cards >}}
