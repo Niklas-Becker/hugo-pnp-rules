@@ -1,3 +1,7 @@
+---
+weight: "2"
+---
+
 ## Story Rolls
 Seite 29
 
@@ -132,20 +136,94 @@ Es wird immer davon ausgegangen, dass Charaktere so aufmerksam sind, wie es ihr 
 
 Es gibt 3 Level von **Vigilance**, welche die Sicht eines Charakters widerspiegeln können.
 
-##### Hint
+### Hint
 Testet das Können des Spielers.
 
 Mit leichten Hinweisen wird ein Spieler auf Gefahr aufmerksam gemacht. Der Spieler hat eine Chance die Situation zu interpretieren.
 
-##### Reveal
+### Reveal
 Testet das Können des Charakters.
 
 Ein offensichtlicher Hinweis auf direkte Gefahr. Der Charakter hat eine Chance zu reagieren.
 
-##### Strike
+### Strike
 Testet die Verteidigungen des Charakters.
 
 Ein **Impact Move** wird gegen den Charakter ausgeführt. Der Charakter war nicht aufmerksam genug um die Gefahr kommen zu sehen.
 
 ![](/images/grimwild-vigilance-examples.png)
+
+
+## Combat Kit
+Seite 38
+
+Um schnelle Combats in Grimwild zu generieren, gibt es **Tiers** und **Roles** für Feinde und **Battlegrounds** für die Location.
+
+Das **Tier** beschreibt die Kraft/Zähe eines Feinds, während die **Role** das Verhalten im Kampf darstellt.
+
+**Battleground** beschreibt wichtige Features und Gefahren der Umgebung.
+
+### Tiers
+
+| Name  | Description                                                                                                                        |
+| ----- | ---------------------------------------------------------------------------------------------------------------------------------- |
+| Mook  | - **Set Dressing**<br>- eine **Action Roll** kann mehrere gleichzeitig besiegen<br>- größere Gruppen können ein **Task Pool** sein |
+| Tough | - ein normaler, gefährlicher Gegner<br>- eine **Action Roll** besiegt einen<br>- kleine Gruppen können ein **Task Pool sein**      |
+| Elite | - starke Präsenz in der Szene<br>- 4d/6d **Challenge**<br>- führt Gruppen von schwächeren Feinden an                               |
+| Boss  | - treibende Kraft in der Szene<br>- 6d/8d oder **linked Challenge**                                                                |
+
+### Roles
+Seite 139-141
+
+Siehe das Buch für ausführlichere Beschreibungen/Moves/Tables/Traits
+
+| Name       | Description                                                                                                                 |
+| ---------- | --------------------------------------------------------------------------------------------------------------------------- |
+| Blaster    | Brutale Fernkämpfer mit großem Flächenschaden. Bröckeln im Nahkampf.                                                        |
+| Brute      | Ein großer, böser, kräftiger Gegner. Gefährlich im Nahkampf.                                                                |
+| Lurker     | Schleicher der aus den Schatten angreift. Flieht nachdem er entdeckt wurde. Möchte keinen langen Kampf.                     |
+| Marauder   | Brutale, chaotische Nahkämpfer. Sehr aggressiv, aber schwach gegen taktisches vorgehen.                                     |
+| Marksman   | Präzise Schützen welche sich auf einzelne Ziele spezialisieren. Verwundbar im Nahkampf oder wenn er sich viel bewegen muss. |
+| Overseer   | Taktiker welcher Truppen kommandiert. Schwach wenn isoliert oder überwältigt.                                               |
+| Predator   | Jäger welche gerne mit ihrer Beute spielen. Versuchen es immer wieder.                                                      |
+| Protector  | Ein defensiver Gegner, der jemanden beschützt. Ist ohne seinen Schützling eher schwach.                                     |
+| Skrimisher | Schneller Feind, nutzt Hit-and-Run Taktiken. Bröckeln wenn sie nicht wegkommen.                                             |
+| Swarmer    | Unaufhaltsame Feine welche in Massen angreifen und sich auf ihre Zahlen verlassen. Sind alleine schwach.                    |
+| Tactician  | Haben einen Plan und denken taktisch. Haben Probleme wenn ihr Plan nicht aufgeht.                                           |
+| Trickster  | Nutzt Täuschung und billige Tricks um die Oberhand zu behalten.                                                             |
+
+### Battleground
+
+Die Location sollte eine aktive Rolle in der Szene spielen. Natürliche Elemente und Gefahren können eine Kampf-Szene sehr interessant machen.
+
+**Features** sind Teile der Szene, welche eine Komplikation hervorrufen können und die Action beeinflussen können. Bsp.: *heavy winds*, *cluttered warehouse*, *angry onlookers*
+
+**Threats** sind aktive Gefahren in einer Szene. Sie haben entweder 2 **Suspense** oder einen **Timer** der sich immer wiederholt. Bsp.: *4d heavy waves*, *6d guard patrols*, *8d artillery*, *Aggressive spirits*, *Tornado*, *Raging Waters*
+
+![](/images/grimwild-battlegrounds.png)
+
+
+## Running Combat
+Seite 39
+
+In Grimwild gibt es keine Initiative, die Action passiert gleich wie in anderen Szenen einfach nach den Handlungen der Spieler. Der Spielleiter beschreibt was passiert und die Spieler antworten. Das **Spotlight** ist meist bei den Spielern, während Gegner sich mit **Foreshadow** auf Angriffe vorbereiten können oder mit **Suspense** ein **Impact Move** ausgeführt werden kann.
+
+Grundsätzlich ist Theater of the Mind für Grimwild angedacht, jedoch können auch simple Karten/Skizzen bei der Positionierung helfen, sollten aber nicht im Vordergrund stehen.
+
+### Combat Rulings
+
+| Name                       | Description                                                                                                                                                                                                                                 |
+| -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Movement                   | Movement ist meist teil einer **Action Roll** und sollte nur separat getestet werden, wenn ein interessantes Hindernis damit in Verbindung steht.                                                                                           |
+| Weapons                    | Die meisten Waffen sind gleich, Bauchgefühl entscheidet wenn eine Imbalance besteht.                                                                                                                                                        |
+| Melee Combat               | Die meisten Nahkampfangriffe werfen **Brawn**, kleine schnelle Waffen auch **Agility**. Dreckige Tricks nutzen **Wits** funktionieren für gewöhnlich aber nicht allzu oft.                                                                  |
+| Ranged Combat              | Präzisionsangriffe mit Bogen/Armbrust/Cantrips auf Distanz nutzen **Agility** während Wurfwaffen auch **Brawn** je nach Gewicht der Waffe nutzen. Einen Nahkampfangriff mit einer Fernkampfwaffe durchzuführen ist gefährlich und gibt +1t. |
+| Ranged & Casters vs. Melee | Magie und Fernkampfangriffe brauchen Konzentration und erhalten im Nahkampf oder direkt neben einem gefährlichen Gegner +1t.                                                                                                                |
+| Defense Rolls              | Der Spielleiter wählt den passenden **Stat** zum würfeln. Ausweichen mit **Agility**, blockieren mit **Brawn**, antizipieren/kontern mit **Wits** oder die Nerven behalten mit **Presence**.                                                |
+| Armor                      | Rüstungen und Schilde werden durch **Talents** repräsentiert. Sonst sind sie **Set Dressing** oder **Vantage** bei **Defense Rolls**.                                                                                                       |
+| Vulnerabilities            | Eine Schwachstelle auszunutzen verringert **Thorns**, entfernt automatisch einen Würfel aus einem Pool oder lässt den Wurf gänzlich ausfallen. Manchmal muss man erst eine Schwachstelle finden um überhaupt anzugreifen.                   |
+| Enemy Magic                | Magie von Feinden folgt nicht den selben Regeln für Spieler. Sie manifestiert sich durch **Moves** und ist nur an die Fiktion gebunden.                                                                                                     |
+
+## Factions
+Seite 40
 
