@@ -1,3 +1,7 @@
+---
+weight: "200"
+---
+
 Seite 24
 
 As you enter the small city, you remember your Settle Debts story arc and want to explore it. You spend story and declare that the father you never knew is here and you've carried this chip on your shoulder a long time—now's the time to confront him.

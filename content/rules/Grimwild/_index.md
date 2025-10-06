@@ -7,5 +7,6 @@ Hier findest du diverse Regeln zu {{< rawhtml >}}<span style="color:green;font-w
 {{< cards >}}
   {{< card link="./player-rules" title="Spieler-Regeln" >}}
   {{< card link="./gm-rules" title="Spielleiter-Regeln" >}}
+  {{< card link="./exploration-system" title="Exploration-Regeln" >}}
   {{< card link="https://junbl.github.io/dice/" title="Grimwild Tools" >}}
 {{< /cards >}}

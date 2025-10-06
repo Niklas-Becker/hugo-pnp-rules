@@ -227,3 +227,21 @@ Grundsätzlich ist Theater of the Mind für Grimwild angedacht, jedoch können a
 ## Factions
 Seite 40
 
+**Factions** können genutzt werden um entweder den Fortschritt von Fraktionen auf dem Weg zu ihrem Ziel, oder aber den Fortschritt von Dingen zu tracken, welche nicht immer aktiv in der Kampagne vorkommen, diese nennt man auch **Campaign Pools**.
+
+Eine **Faction** hat entweder **Resources**, **Goals** oder beides. **Resources** sind im Endeffekt **Traits** über welche die Fraktion verfügt, während **Goals** als **Faction Pools** ausgedrückt werden.
+
+Wenn ein **Faction Pool** geleert wird, erreichen sie entweder ihr **Goal** oder machen einen **Move** gegen eine andere **Faction** mit einer **Story Roll**.
+
+Sie können wie **Linked Challenges** mehrere verlinkte **Pools** haben.
+
+Während einer Kampagne sollten ca. 4-6 größere und kleinere **Factions** aufrecht sein und durch neue ersetzt werden wenn sie nicht mehr relevant sind.
+
+![](/images/grimwild-faction-example.png)
+
+### Campaign Pools
+Sind **Pools** welche langzeit-Events tracken und den Spielleiter erinnern sollen, älteren Plot wieder einzuführen. Sie brauchen anders als **Factions** keine **Resources** oder **Goals**. Sie können wie **Linked Challenges** mehrere verlinkte **Pools** haben.
+
+**Beispiele:** Mondfinsternis, Wyvern Migration, NPC sucht Rache
+
+

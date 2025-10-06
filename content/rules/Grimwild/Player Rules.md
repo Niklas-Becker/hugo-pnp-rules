@@ -1,14 +1,6 @@
 ---
 weight: "1"
 ---
-
-## Spielsetup (Session 0)
-Als Gruppe wird eine **Adventuring Party** kreiert indem mit ein paar Begriffen festgelegt wird, was die Party ist und was sie nicht ist. Es wird davon ausgegangen, dass die Party sich bereits kennt.
-
-Ein Charakter beginnt mit zwei Backgrounds und einem **Adventurer Path** (dem Äquivalent einer Klasse). Zusätzlich werden wie üblich **Stats**, **Traits & Desires** und **Bonds** vergeben um den Charakter auszubauen.
-
-Es werden in der Gruppe und individuell **Story/Character Arcs** festgelegt auf welche hingespielt wird.
-
 ## Core Mechanik
 Seite 12
 
