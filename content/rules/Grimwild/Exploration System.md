@@ -41,7 +41,6 @@ Seite 84
 | Areas       | 3 (kann vom Spielleiter gratis gesetzt werden)                        |
 | Rough Paths | haben keine Kosten, sind aber schwierig zu durchqueren und gefährlich |
 | Passes      | können gratis als Teil eines Pfades gesetzt werden                    |
-Entlang an Pfaden setzt der Spielleiter **Waypoints**, diese repräsentieren jeweils einen Tag Reise.
 
 Wenn etwas auf die Karte gesetzt wird, muss es auch gelabeled werden. Ein paar Schlüsselwörter oder ein Name ist ausreichend. Die **Crucibles** auf Seite 88 des Regelwerks können mit der Inspiration helfen. Zusätzlich zum Namen kann auch ein Tag mit ```[Remnants], [Wilds] oder [Ruins]``` vergeben werden, um die Realität zu definieren, mit welcher der Ort in Verbindung hängt.
 
