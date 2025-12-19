@@ -1,4 +1,4 @@
-baseURL: https://example.org/
+baseURL: https://pnp.benik.me/
 languageCode: en-us
 title: Pen & Paper Grimoire
 module:
@@ -6,9 +6,12 @@ module:
     - path: hextra
 menu:
   main:
+    - name: Summaries
+      pageRef: /summaries
+      weight: 1
     - name: Rules
       pageRef: /rules
-      weight: 1
+      weight: 2
     - name: Search
       weight: 4
       params:

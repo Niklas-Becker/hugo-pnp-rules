@@ -106,7 +106,7 @@ Jede **Challenge** hat einene **Task** Pool und eins oder mehrere von **Traits, 
 | Turn a broad concept into an actionable objective.    | Restore the desecrated temple. Secure enough alliances. Atone for your sins. |
 
 
-![](/images/grimwild-challenge-example.png")
+![](/images/grimwild-challenge-example.png)
 
 | Navigate Channel |                      8d                       |
 | :--------------: | :-------------------------------------------: |

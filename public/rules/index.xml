@@ -1,8 +1,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Pen &amp; Paper Grimoire – Pen &amp; Paper Grimoire</title>
+    <title>Pen &amp; Paper Grimoire – Regeln</title>
     <link>http://localhost:1313/rules/</link>
-    <description>Recent content on Pen &amp; Paper Grimoire</description>
+    <description>Recent content in Regeln on Pen &amp; Paper Grimoire</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
@@ -16,18 +16,14 @@
     
     <item>
       <title></title>
-      <link>http://localhost:1313/rules/grimwild/player-notes-1-pager/</link>
+      <link>http://localhost:1313/rules/grimwild/player-rules/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/rules/grimwild/player-notes-1-pager/</guid>
+      <guid>http://localhost:1313/rules/grimwild/player-rules/</guid>
       <description>
         
         
-        &lt;h2&gt;Spielsetup (Session 0)&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;spielsetup-session-0&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#spielsetup-session-0&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Als Gruppe wird eine &lt;strong&gt;Adventuring Party&lt;/strong&gt; kreiert indem mit ein paar Begriffen festgelegt wird, was die Party ist und was sie nicht ist. Es wird davon ausgegangen, dass die Party sich bereits kennt.&lt;/p&gt;
-&lt;p&gt;Ein Charakter beginnt mit zwei Backgrounds und einem &lt;strong&gt;Adventurer Path&lt;/strong&gt; (dem Äquivalent einer Klasse). Zusätzlich werden wie üblich &lt;strong&gt;Stats&lt;/strong&gt;, &lt;strong&gt;Traits &amp;amp; Desires&lt;/strong&gt; und &lt;strong&gt;Bonds&lt;/strong&gt; vergeben um den Charakter auszubauen.&lt;/p&gt;
-&lt;p&gt;Es werden in der Gruppe und individuell &lt;strong&gt;Story/Character Arcs&lt;/strong&gt; festgelegt auf die hingespielt werden.&lt;/p&gt;
-&lt;h2&gt;Core Mechanik&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;core-mechanik&#34;&gt;&lt;/span&gt;
+        &lt;h2&gt;Core Mechanik&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;core-mechanik&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#core-mechanik&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Seite 12&lt;/p&gt;
 &lt;p&gt;Die Spieler beschreiben was sie machen möchten, der Leiter wählt den dafür passenden Stat. Daraufhin würfelt der Spieler d6 gleich dem &lt;strong&gt;Stats&lt;/strong&gt; den der Spielleiter für den Wurf auswählt. Die Spieler können &lt;strong&gt;Spark&lt;/strong&gt; verwenden um einen zusätzlichen Würfel hinzuzufügen (max. +1d).&lt;/p&gt;
 &lt;p&gt;Wenn die Aufgabe besonders schwierig ist oder durch Umstände in der Szene erschwert wird, kann der Leiter bis zu 2 &lt;strong&gt;Thorns&lt;/strong&gt; (1t, 2t etc.) hinzufügen. &lt;strong&gt;Thorns&lt;/strong&gt; sind d8 und wenn diese auf 7 oder 8 landen, verringern sie den Erfolg des Wurfs um eine Stufe, das wird ein &lt;strong&gt;Cut&lt;/strong&gt; genannt. Ein Wurf mit 3t gilt als nicht möglich und kann nicht durchgeführt werden.&lt;/p&gt;
@@ -465,12 +461,662 @@
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;h2&gt;Treasure&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;treasure&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#treasure&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Seite 22&lt;/p&gt;
 &lt;h2&gt;Clarifications&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;clarifications&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#clarifications&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Cantrip Utility&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;cantrip-utility&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#cantrip-utility&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/grimwild-cantrip-clarification.webp&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;Der Unterschied zwischen &lt;strong&gt;Cantrip Utility&lt;/strong&gt; und &lt;strong&gt;Spells&lt;/strong&gt; ist oft nur der zu würfelnde &lt;strong&gt;Stats&lt;/strong&gt;.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/rules/grimwild/gm-rules/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/rules/grimwild/gm-rules/</guid>
+      <description>
+        
+        
+        &lt;h2&gt;Story Rolls&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;story-rolls&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#story-rolls&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Seite 29&lt;/p&gt;
+&lt;p&gt;Wenn der Spielleiter etwas nicht selbst entscheiden möchte oder sich bei einer Regelung nicht sicher ist, kann immer auf eine &lt;strong&gt;Story Roll&lt;/strong&gt; zurückgefallen werden.&lt;/p&gt;
+&lt;p&gt;Es wird immer aus der Sicht eines guten Ergebnis gewürfelt (Wird für die Fische oder die Fischer gewürfelt?).&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/grimwild-story-roll.png&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;h2&gt;GM Crucible&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;gm-crucible&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#gm-crucible&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Seite 29&lt;/p&gt;
+&lt;p&gt;Das &lt;strong&gt;GM Crucible&lt;/strong&gt; sind 2 d66 Tabellen, welche zusammen die Inspiration für Low-Prep und Improvisation anregen sollen. Kann auch gemeinsam mit &lt;strong&gt;Story Rolls&lt;/strong&gt; verwendet werden. Die Würfe ergeben immer zwei Ergebnisse (1 + 3 = 13 oder 31).&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/grimwild-gm-crucible.png&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;h2&gt;GM Moves&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;gm-moves&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#gm-moves&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Seite 30&lt;/p&gt;
+&lt;p&gt;Es gibt drei Arten von GM Moves, welche im Spiel selbst nicht unbedingt genannt werden müssen.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Story Moves&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Suspense Moves&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Impact Moves&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Prompt&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;prompt&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#prompt&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Beschreibt einen Trigger. Das kann ein &lt;strong&gt;Messy&lt;/strong&gt; oder &lt;strong&gt;Grim&lt;/strong&gt; sein, ein &lt;strong&gt;Pool&lt;/strong&gt; der geleert wird, ein bisher ungenutzter &lt;strong&gt;Foreshadow Move&lt;/strong&gt; oder &lt;strong&gt;Suspense&lt;/strong&gt;.&lt;/p&gt;
+&lt;h3&gt;Suspense&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;suspense&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#suspense&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Beschrieben als &lt;em&gt;Pure rising tension and cinematic timing&lt;/em&gt;. Suspense kann verdient werden, indem ein &lt;strong&gt;Suspense Move&lt;/strong&gt; ausgeführt wird oder ein &lt;strong&gt;Impact Move&lt;/strong&gt; übersprungen wird.&lt;/p&gt;
+&lt;p&gt;Suspense kann benutzt werden um einen sofortigen &lt;strong&gt;Impact Move&lt;/strong&gt; auszuführen.&lt;/p&gt;
+&lt;h3&gt;Hit With Impact&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;hit-with-impact&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#hit-with-impact&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Consequences:&lt;/strong&gt; Jeder Wurf trägt Risiko mit sich, ist kein Risiko vorhanden wird Erfolg angenommen und weiter gemacht. Konsequenzen für schlechte Würfe sollten &lt;em&gt;hart aber fair&lt;/em&gt; sein. Schaden bietet eine gute Baseline und kann weiter aufgesplittet werden.&lt;/p&gt;
+&lt;p&gt;Anstatt &lt;strong&gt;Harm&lt;/strong&gt; können zwei &lt;strong&gt;Marks&lt;/strong&gt; oder &lt;strong&gt;Conditions&lt;/strong&gt; vergeben werden. &lt;strong&gt;Rattled&lt;/strong&gt; kann &lt;strong&gt;Vex&lt;/strong&gt; werden oder einen Pool starten. Die Konsequenzen so aufzusplitten macht auch oft in der Fiktion mehr Sinn, als stur bei &lt;strong&gt;Harm/Marks&lt;/strong&gt; zu bleiben.&lt;/p&gt;
+&lt;p&gt;Weiters, können die Konsequenzen auf mehrere Spieler oder NPCs aufgeteilt werden. Wenn ein Spieler getroffen wird, welcher nicht am &lt;strong&gt;Prompt&lt;/strong&gt; beteiligt ist, wird ein &lt;strong&gt;Defense Roll&lt;/strong&gt; gemacht.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Thinking Offscreen:&lt;/strong&gt; Konsequenzen müssen nicht immer in der jetzigen Szene spürbar sein. Verpasste Möglichkeiten und Spannungsaufbau tragen viel zur Tiefe des Spiels bei.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Using Pools:&lt;/strong&gt; Danger und Timer Pools sind ein guter Outlet für Konsequenzen.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Stakes:&lt;/strong&gt; Stakes sind ein Tool um den Tonfall einer Szene/des Wurfs zu setzen. Der normale Tonfall des Spiels wird durch &lt;strong&gt;Dire Stakes&lt;/strong&gt; und &lt;strong&gt;Tame Stakes&lt;/strong&gt; erweitert. &lt;strong&gt;Dire Stakes&lt;/strong&gt; bei Würfen haben besonders harsche Folgen (Tod oder ähnliches), während &lt;strong&gt;Tame Stakes&lt;/strong&gt; weniger schlimme Folgen haben (eine Katze aus dem Baum retten).&lt;/p&gt;
+&lt;h3&gt;Story Moves&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;story-moves&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#story-moves&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Seite 31&lt;/p&gt;
+&lt;p&gt;Diese Moves geben die Geschwindigkeit des Spiels vor, setzen die Szenen auf und beleuchten Charaktere oder beenden Szenen. &lt;em&gt;Diese Moves können jederzeit gemacht werden.&lt;/em&gt;&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Move&lt;/th&gt;
+          &lt;th&gt;Description&lt;/th&gt;
+          &lt;th&gt;Examples&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Foreshadow&lt;/td&gt;
+          &lt;td&gt;Auf Gefahr hinweisen, manchmal mit einem &lt;strong&gt;Timer Pool&lt;/strong&gt;. Führt später zu einem &lt;strong&gt;Impact Move&lt;/strong&gt;.&lt;/td&gt;
+          &lt;td&gt;&lt;em&gt;&amp;ldquo;The wizard narrows his eyes angrily as you enter.&amp;rdquo; &amp;ldquo;You hear hoofbeats coming, a 4d timer.&amp;rdquo;&lt;/em&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Question&lt;/td&gt;
+          &lt;td&gt;Dieser Move hilft dabei, die Richtung der Geschichte herauszufinden, welche die Spieler spielen möchten. Durch provokative Fragen kommt es zu mehr Drama und die Welt lässt sich gut durch die Spieler ausbauen. Dabei sollte auf den Blickwinkel der Charaktere Rücksicht genommen werden.&lt;/td&gt;
+          &lt;td&gt;&lt;em&gt;&amp;ldquo;Why did you let them kill that bandit?&amp;rdquo; &amp;ldquo;What do you say about the queen as you sit around the fire?&amp;rdquo;&lt;/em&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Spotlight&lt;/td&gt;
+          &lt;td&gt;um ruhigeren Spielern auch die Chance zu geben zu handeln, wird die Aufmerksamkeit auf sie gerichtet. Evtl. auch mit cineastischer Sprache.&lt;/td&gt;
+          &lt;td&gt;&lt;em&gt;&amp;ldquo;You’ve been quiet for a bit—what are you up to?&amp;rdquo; &amp;ldquo;The crone’s eyes lock onto yours, expecting an answer.&amp;rdquo;&lt;/em&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Set the Scene&lt;/td&gt;
+          &lt;td&gt;Falls unklar ist, wie die Stimmung in einer neuen Szene aussieht, kann einfach eine &lt;strong&gt;Story Roll&lt;/strong&gt; gemacht werden. Bei einem &lt;strong&gt;Grim&lt;/strong&gt; kann ein &lt;strong&gt;Impact Move&lt;/strong&gt; getriggert werden.&lt;/td&gt;
+          &lt;td&gt;&lt;em&gt;&amp;ldquo;All seem in festive spirits in the great hall.&amp;rdquo; &amp;ldquo;All eyes coldly turn as you enter the great hall.&amp;rdquo;&lt;/em&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Wrap it Up&lt;/td&gt;
+          &lt;td&gt;Wenn eine Szene soweit durch ist und ihren Zweck erfüllt hat, kann die Szene entweder mit einer &lt;strong&gt;Montage Roll&lt;/strong&gt; oder einem passenden Ende beendet werden.&lt;/td&gt;
+          &lt;td&gt;&lt;em&gt;&amp;ldquo;Let’s montage your escape from the collapsing dungeon.&amp;rdquo; &amp;ldquo;Okay, you finish mopping up the goblin rabble.&amp;rdquo;&lt;/em&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3&gt;Suspense Moves&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;suspense-moves&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#suspense-moves&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Seite 32&lt;/p&gt;
+&lt;p&gt;Diese Moves geben dem Spielleiter &lt;strong&gt;Suspense&lt;/strong&gt;, bewegen eine festgefahrene Situation nach vorne und helfen die Spieler im Spiel zu halten. Weiters helfen sie dabei, cineastische/filmische Elemente ins Spiel zu bringen. Sie sollten nicht zu oft verwendet werden.&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Move&lt;/th&gt;
+          &lt;th&gt;Description&lt;/th&gt;
+          &lt;th&gt;Examples&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Bridge&lt;/td&gt;
+          &lt;td&gt;Eine Bridge gibt den Spielern eine einfache Lösung aus einer verzwickten Situation oder einer fad-gewordenen Szene. Sollte nur eingesetzt werden wenn die Spieler nicht mehr weiter wissen und das Spiel ins Stocken gerät. Die Lösung kann Information oder eine Handlung sein.&lt;/td&gt;
+          &lt;td&gt;&lt;em&gt;&amp;ldquo;You hear from above, ‘Need some help down there?’&amp;rdquo; &amp;ldquo;It suddenly makes sense—the baron is a vampire.&amp;rdquo;&lt;/em&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Buildup&lt;/td&gt;
+          &lt;td&gt;Jeder Spieler, der bevor es offensichtlich zu Action kommt eine Beschreibung seines Charakters und seiner vorbereitenden Handlungen gibt, bekommt &lt;strong&gt;Spark&lt;/strong&gt;.&lt;/td&gt;
+          &lt;td&gt;&lt;em&gt;&amp;ldquo;The dragon roars in its lair. Let’s do a buildup.&amp;rdquo; &amp;ldquo;What does it look like as you enter the masquerade?&amp;rdquo;&lt;/em&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Cutaway&lt;/td&gt;
+          &lt;td&gt;Der Spielleiter erzählt eine Szene weg von den Charakteren und gibt mit ihr Informationen für die Spieler. Bösewichte beim planen, Armeen am marschieren etc. Dieser Move kann den Spieler in der Story eine Richtung geben.&lt;/td&gt;
+          &lt;td&gt;&lt;em&gt;&amp;ldquo;In a distant village, a strange sickness begins to spread.&amp;rdquo; &amp;ldquo;Meanwhile, we see shadows climbing the walls.&amp;rdquo;&lt;/em&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Entangle&lt;/td&gt;
+          &lt;td&gt;Der Spielleiter gibt einem Spieler einen &lt;strong&gt;Tangle&lt;/strong&gt; vor, welchen der Spieler aber ablehnen kann. Diese &lt;strong&gt;Tangles&lt;/strong&gt; sollten zu den &lt;strong&gt;Traits, Desires, Bonds, Story Arcs&lt;/strong&gt; des Charakters passen um sie möglichst unwiderstehlich zu machen.&lt;/td&gt;
+          &lt;td&gt;&lt;em&gt;&amp;ldquo;He looks at you with a smirk, daring you to speak up.&amp;rdquo; &amp;ldquo;The prisoner knows where your mother is.&amp;rdquo;&lt;/em&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Recap&lt;/td&gt;
+          &lt;td&gt;Am Anfang einer Session wird die bisherige Handlung zusammengefasst oder während der Session wird an frühere Geschehnisse erinnert. Wenn Spieler die Zusammenfassung selbst machen wollen, bekommt der Spielleiter kein &lt;strong&gt;Suspense&lt;/strong&gt;.&lt;/td&gt;
+          &lt;td&gt;&lt;em&gt;&amp;ldquo;Okay, so last time you wrecked that keep.&amp;rdquo; &amp;ldquo;Remember when you let that bandit go?&amp;rdquo;&lt;/em&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3&gt;Impact Moves&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;impact-moves&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#impact-moves&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Seite 33&lt;/p&gt;
+&lt;p&gt;Impact Moves brauchen (fast) immer ein &lt;strong&gt;Prompt&lt;/strong&gt; (&lt;strong&gt;Grim/Messy&lt;/strong&gt;, &lt;strong&gt;Suspense&lt;/strong&gt;) um ausgeführt zu werden. Sollten sie nicht &lt;strong&gt;Prompted&lt;/strong&gt; sein, machen Spieler eine &lt;strong&gt;Defense Roll&lt;/strong&gt;. Die Auswirkungen dieser Moves sollten sofort spürbar sein und die Welt gefährlich machen.&lt;/p&gt;
+&lt;p&gt;Einige Fähigkeiten der Spieler können &lt;strong&gt;Impact Moves&lt;/strong&gt; auch unterbrechen.&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Move&lt;/th&gt;
+          &lt;th&gt;Description&lt;/th&gt;
+          &lt;th&gt;Examples&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Complicate Things&lt;/td&gt;
+          &lt;td&gt;Wenn sich eine Szene zu statisch, langsam anfühlt oder einfach alles chaotischer werden soll, eskaliert der Spielleiter die Situation indem er ein neues Problem einführt oder Druck auf ein &lt;strong&gt;Bond&lt;/strong&gt; ausübt.&lt;/td&gt;
+          &lt;td&gt;&lt;em&gt;&amp;ldquo;A huge storm rolls in.&amp;rdquo; &amp;ldquo;The guard catches sight of you and rings the alarm bell.&amp;rdquo;&lt;/em&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Counter&lt;/td&gt;
+          &lt;td&gt;Sollte sparsam benutzt werden. Negiert eine Fähigkeit/Action Roll welche ein Spieler normalerweise immer einsetzen kann. Der Spieler verliert dadurch jedoch keine Ressourcen. Soll zeigen, dass die Welt sich nicht einfach unterwerfen lässt.&lt;/td&gt;
+          &lt;td&gt;&lt;em&gt;&amp;ldquo;The lich casts a quick protective spell, slowing your strike.&amp;rdquo; &amp;ldquo;The queen raises a hand, silencing everyone.&amp;rdquo;&lt;/em&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Force a Choice&lt;/td&gt;
+          &lt;td&gt;Eine unumgängliche, binäre Wahl wird präsentiert. Wenn dieser Move benutzt wird, sollte er auch gänzlich durchgezogen werden und keinen Verhandlungsspielraum lassen.&lt;/td&gt;
+          &lt;td&gt;&lt;em&gt;&amp;ldquo;Your gold pouch and sword slide towards the lava.&amp;rdquo; &amp;ldquo;Now’s the choice—the prince or the marquis?&amp;rdquo;&lt;/em&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Hit &amp;rsquo;em Hard&lt;/td&gt;
+          &lt;td&gt;Der Move für direkte &lt;strong&gt;Consequences&lt;/strong&gt;. Kann sich als Schaden, Verrat oder Verlust manifestieren und sollte weh tun.&lt;/td&gt;
+          &lt;td&gt;&lt;em&gt;&amp;ldquo;The ceiling collapses, raining rocks down on you.&amp;rdquo; &amp;ldquo;She smirks wickedly at you—take vex, you’re pissed.&amp;rdquo;&lt;/em&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Lock It In&lt;/td&gt;
+          &lt;td&gt;Eine Option definitiv ausschließen, nachdem eine Lösung nicht funktioniert hat.&lt;/td&gt;
+          &lt;td&gt;&lt;em&gt;&amp;ldquo;The thief gets away, nowhere to be seen.&amp;rdquo; &amp;ldquo;The bridge behind you collapses. No going back.&amp;rdquo;&lt;/em&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2&gt;Challenges&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;challenges&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#challenges&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Seite 34&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Challenges&lt;/strong&gt; sind das Catch-All System von Grimwild für alle Hindernisse welche man Spielern in den Weg stellen kann. Jede Aufgabe, jeder Gegner, jede Hürde kann als eine &lt;strong&gt;Challenge&lt;/strong&gt; dargestellt werden.&lt;/p&gt;
+&lt;p&gt;Jede &lt;strong&gt;Challenge&lt;/strong&gt; hat einene &lt;strong&gt;Task&lt;/strong&gt; Pool und eins oder mehrere von &lt;strong&gt;Traits, Moves, Fail State&lt;/strong&gt;. Zusätzlich hat jede Challenge zwei zusätzliche &lt;strong&gt;Suspense&lt;/strong&gt;, welche nur für die dazugehörigen Moves benutzt werden können.&lt;/p&gt;
+&lt;h3&gt;Beispiele&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;beispiele&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#beispiele&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Type&lt;/th&gt;
+          &lt;th&gt;Examples&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Create a dangerous enemy or exceptionally tough task.&lt;/td&gt;
+          &lt;td&gt;Navigate a mountain pass. Fight the rogue wizard. Make the mayor pay up&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Zoom in on pivotal moments.&lt;/td&gt;
+          &lt;td&gt;Disable a complex trap. Complete the ritual. Court the prince.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Zoom out to collapse related tasks into one objective&lt;/td&gt;
+          &lt;td&gt;Evade castle guards. Track down the criminals. Organize a mutiny&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Turn a broad concept into an actionable objective.&lt;/td&gt;
+          &lt;td&gt;Restore the desecrated temple. Secure enough alliances. Atone for your sins.&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/grimwild-challenge-example.png&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;Navigate Channel&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;8d&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;strong&gt;Traits&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Shark-Infested Waters&lt;!-- raw HTML omitted --&gt;Treacherous currents&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;strong&gt;Moves&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Graze Reef&lt;!-- raw HTML omitted --&gt;Violent Winds&lt;!-- raw HTML omitted --&gt;Dense Fog&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;strong&gt;Fail State&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;6d Storm Blows In&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3&gt;Building Challenges&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;building-challenges&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#building-challenges&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Schwierigkeit festlegen:&lt;/strong&gt; einen &lt;strong&gt;Task Pool&lt;/strong&gt; zuweisen (4d, 6d, 8d)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Traits hinzufügen:&lt;/strong&gt; 1-2 &lt;strong&gt;Traits&lt;/strong&gt; welche die Situation untermalen. Sollten keine offensichtlichen Dinge sein (Sturm ist windig). Ein besserer &lt;strong&gt;Trait&lt;/strong&gt; wäre &lt;em&gt;Starke Winde blenden&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Kurze Moves auflisten:&lt;/strong&gt; 2-3 flexible &lt;strong&gt;Moves&lt;/strong&gt;. Können mit &lt;strong&gt;Suspense&lt;/strong&gt; oder als &lt;strong&gt;Impact Move&lt;/strong&gt; getriggert werden.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Fail State definieren:&lt;/strong&gt; Ein &lt;strong&gt;Trigger&lt;/strong&gt; der den positiven Ausgang der &lt;strong&gt;Challenge&lt;/strong&gt; verhindert. Spieler sollten den &lt;strong&gt;Fail State&lt;/strong&gt; kennen.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3&gt;Linked Challenges&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;linked-challenges&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#linked-challenges&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Seite 35&lt;/p&gt;
+&lt;p&gt;Mehrere Challenges können zusammen verknüpft werden, um komplexere Situationen darzustellen.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/grimwild-linked-challenge-1.png&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/grimwild-linked-challenge-2.png&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;h2&gt;Vigilance&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;vigilance&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#vigilance&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Seite 36&lt;/p&gt;
+&lt;p&gt;Es wird immer davon ausgegangen, dass Charaktere so aufmerksam sind, wie es ihr &lt;strong&gt;Vantage&lt;/strong&gt; gerade zulässt. Das inkludiert das Finden von &lt;em&gt;Fallen, Geheimtüren und Lügen&lt;/em&gt;. Der Spielleiter benutzt sein Bauchgefühl um zu entscheiden, wann jemandem etwas auffällt.&lt;/p&gt;
+&lt;p&gt;Es gibt 3 Level von &lt;strong&gt;Vigilance&lt;/strong&gt;, welche die Sicht eines Charakters widerspiegeln können.&lt;/p&gt;
+&lt;h3&gt;Hint&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;hint&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#hint&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Testet das Können des Spielers.&lt;/p&gt;
+&lt;p&gt;Mit leichten Hinweisen wird ein Spieler auf Gefahr aufmerksam gemacht. Der Spieler hat eine Chance die Situation zu interpretieren.&lt;/p&gt;
+&lt;h3&gt;Reveal&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;reveal&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#reveal&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Testet das Können des Charakters.&lt;/p&gt;
+&lt;p&gt;Ein offensichtlicher Hinweis auf direkte Gefahr. Der Charakter hat eine Chance zu reagieren.&lt;/p&gt;
+&lt;h3&gt;Strike&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;strike&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#strike&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Testet die Verteidigungen des Charakters.&lt;/p&gt;
+&lt;p&gt;Ein &lt;strong&gt;Impact Move&lt;/strong&gt; wird gegen den Charakter ausgeführt. Der Charakter war nicht aufmerksam genug um die Gefahr kommen zu sehen.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/grimwild-vigilance-examples.png&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;h2&gt;Combat Kit&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;combat-kit&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#combat-kit&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Seite 38&lt;/p&gt;
+&lt;p&gt;Um schnelle Combats in Grimwild zu generieren, gibt es &lt;strong&gt;Tiers&lt;/strong&gt; und &lt;strong&gt;Roles&lt;/strong&gt; für Feinde und &lt;strong&gt;Battlegrounds&lt;/strong&gt; für die Location.&lt;/p&gt;
+&lt;p&gt;Das &lt;strong&gt;Tier&lt;/strong&gt; beschreibt die Kraft/Zähe eines Feinds, während die &lt;strong&gt;Role&lt;/strong&gt; das Verhalten im Kampf darstellt.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Battleground&lt;/strong&gt; beschreibt wichtige Features und Gefahren der Umgebung.&lt;/p&gt;
+&lt;h3&gt;Tiers&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;tiers&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#tiers&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Name&lt;/th&gt;
+          &lt;th&gt;Description&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Mook&lt;/td&gt;
+          &lt;td&gt;- &lt;strong&gt;Set Dressing&lt;/strong&gt;&lt;!-- raw HTML omitted --&gt;- eine &lt;strong&gt;Action Roll&lt;/strong&gt; kann mehrere gleichzeitig besiegen&lt;!-- raw HTML omitted --&gt;- größere Gruppen können ein &lt;strong&gt;Task Pool&lt;/strong&gt; sein&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Tough&lt;/td&gt;
+          &lt;td&gt;- ein normaler, gefährlicher Gegner&lt;!-- raw HTML omitted --&gt;- eine &lt;strong&gt;Action Roll&lt;/strong&gt; besiegt einen&lt;!-- raw HTML omitted --&gt;- kleine Gruppen können ein &lt;strong&gt;Task Pool sein&lt;/strong&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Elite&lt;/td&gt;
+          &lt;td&gt;- starke Präsenz in der Szene&lt;!-- raw HTML omitted --&gt;- 4d/6d &lt;strong&gt;Challenge&lt;/strong&gt;&lt;!-- raw HTML omitted --&gt;- führt Gruppen von schwächeren Feinden an&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Boss&lt;/td&gt;
+          &lt;td&gt;- treibende Kraft in der Szene&lt;!-- raw HTML omitted --&gt;- 6d/8d oder &lt;strong&gt;linked Challenge&lt;/strong&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3&gt;Roles&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;roles&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#roles&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Seite 139-141&lt;/p&gt;
+&lt;p&gt;Siehe das Buch für ausführlichere Beschreibungen/Moves/Tables/Traits&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Name&lt;/th&gt;
+          &lt;th&gt;Description&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Blaster&lt;/td&gt;
+          &lt;td&gt;Brutale Fernkämpfer mit großem Flächenschaden. Bröckeln im Nahkampf.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Brute&lt;/td&gt;
+          &lt;td&gt;Ein großer, böser, kräftiger Gegner. Gefährlich im Nahkampf.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Lurker&lt;/td&gt;
+          &lt;td&gt;Schleicher der aus den Schatten angreift. Flieht nachdem er entdeckt wurde. Möchte keinen langen Kampf.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Marauder&lt;/td&gt;
+          &lt;td&gt;Brutale, chaotische Nahkämpfer. Sehr aggressiv, aber schwach gegen taktisches vorgehen.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Marksman&lt;/td&gt;
+          &lt;td&gt;Präzise Schützen welche sich auf einzelne Ziele spezialisieren. Verwundbar im Nahkampf oder wenn er sich viel bewegen muss.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Overseer&lt;/td&gt;
+          &lt;td&gt;Taktiker welcher Truppen kommandiert. Schwach wenn isoliert oder überwältigt.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Predator&lt;/td&gt;
+          &lt;td&gt;Jäger welche gerne mit ihrer Beute spielen. Versuchen es immer wieder.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Protector&lt;/td&gt;
+          &lt;td&gt;Ein defensiver Gegner, der jemanden beschützt. Ist ohne seinen Schützling eher schwach.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Skrimisher&lt;/td&gt;
+          &lt;td&gt;Schneller Feind, nutzt Hit-and-Run Taktiken. Bröckeln wenn sie nicht wegkommen.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Swarmer&lt;/td&gt;
+          &lt;td&gt;Unaufhaltsame Feine welche in Massen angreifen und sich auf ihre Zahlen verlassen. Sind alleine schwach.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Tactician&lt;/td&gt;
+          &lt;td&gt;Haben einen Plan und denken taktisch. Haben Probleme wenn ihr Plan nicht aufgeht.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Trickster&lt;/td&gt;
+          &lt;td&gt;Nutzt Täuschung und billige Tricks um die Oberhand zu behalten.&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3&gt;Battleground&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;battleground&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#battleground&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Die Location sollte eine aktive Rolle in der Szene spielen. Natürliche Elemente und Gefahren können eine Kampf-Szene sehr interessant machen.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Features&lt;/strong&gt; sind Teile der Szene, welche eine Komplikation hervorrufen können und die Action beeinflussen können. Bsp.: &lt;em&gt;heavy winds&lt;/em&gt;, &lt;em&gt;cluttered warehouse&lt;/em&gt;, &lt;em&gt;angry onlookers&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Threats&lt;/strong&gt; sind aktive Gefahren in einer Szene. Sie haben entweder 2 &lt;strong&gt;Suspense&lt;/strong&gt; oder einen &lt;strong&gt;Timer&lt;/strong&gt; der sich immer wiederholt. Bsp.: &lt;em&gt;4d heavy waves&lt;/em&gt;, &lt;em&gt;6d guard patrols&lt;/em&gt;, &lt;em&gt;8d artillery&lt;/em&gt;, &lt;em&gt;Aggressive spirits&lt;/em&gt;, &lt;em&gt;Tornado&lt;/em&gt;, &lt;em&gt;Raging Waters&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/grimwild-battlegrounds.png&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;h2&gt;Running Combat&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;running-combat&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#running-combat&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Seite 39&lt;/p&gt;
+&lt;p&gt;In Grimwild gibt es keine Initiative, die Action passiert gleich wie in anderen Szenen einfach nach den Handlungen der Spieler. Der Spielleiter beschreibt was passiert und die Spieler antworten. Das &lt;strong&gt;Spotlight&lt;/strong&gt; ist meist bei den Spielern, während Gegner sich mit &lt;strong&gt;Foreshadow&lt;/strong&gt; auf Angriffe vorbereiten können oder mit &lt;strong&gt;Suspense&lt;/strong&gt; ein &lt;strong&gt;Impact Move&lt;/strong&gt; ausgeführt werden kann.&lt;/p&gt;
+&lt;p&gt;Grundsätzlich ist Theater of the Mind für Grimwild angedacht, jedoch können auch simple Karten/Skizzen bei der Positionierung helfen, sollten aber nicht im Vordergrund stehen.&lt;/p&gt;
+&lt;h3&gt;Combat Rulings&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;combat-rulings&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#combat-rulings&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Name&lt;/th&gt;
+          &lt;th&gt;Description&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Movement&lt;/td&gt;
+          &lt;td&gt;Movement ist meist teil einer &lt;strong&gt;Action Roll&lt;/strong&gt; und sollte nur separat getestet werden, wenn ein interessantes Hindernis damit in Verbindung steht.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Weapons&lt;/td&gt;
+          &lt;td&gt;Die meisten Waffen sind gleich, Bauchgefühl entscheidet wenn eine Imbalance besteht.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Melee Combat&lt;/td&gt;
+          &lt;td&gt;Die meisten Nahkampfangriffe werfen &lt;strong&gt;Brawn&lt;/strong&gt;, kleine schnelle Waffen auch &lt;strong&gt;Agility&lt;/strong&gt;. Dreckige Tricks nutzen &lt;strong&gt;Wits&lt;/strong&gt; funktionieren für gewöhnlich aber nicht allzu oft.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Ranged Combat&lt;/td&gt;
+          &lt;td&gt;Präzisionsangriffe mit Bogen/Armbrust/Cantrips auf Distanz nutzen &lt;strong&gt;Agility&lt;/strong&gt; während Wurfwaffen auch &lt;strong&gt;Brawn&lt;/strong&gt; je nach Gewicht der Waffe nutzen. Einen Nahkampfangriff mit einer Fernkampfwaffe durchzuführen ist gefährlich und gibt +1t.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Ranged &amp;amp; Casters vs. Melee&lt;/td&gt;
+          &lt;td&gt;Magie und Fernkampfangriffe brauchen Konzentration und erhalten im Nahkampf oder direkt neben einem gefährlichen Gegner +1t.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Defense Rolls&lt;/td&gt;
+          &lt;td&gt;Der Spielleiter wählt den passenden &lt;strong&gt;Stat&lt;/strong&gt; zum würfeln. Ausweichen mit &lt;strong&gt;Agility&lt;/strong&gt;, blockieren mit &lt;strong&gt;Brawn&lt;/strong&gt;, antizipieren/kontern mit &lt;strong&gt;Wits&lt;/strong&gt; oder die Nerven behalten mit &lt;strong&gt;Presence&lt;/strong&gt;.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Armor&lt;/td&gt;
+          &lt;td&gt;Rüstungen und Schilde werden durch &lt;strong&gt;Talents&lt;/strong&gt; repräsentiert. Sonst sind sie &lt;strong&gt;Set Dressing&lt;/strong&gt; oder &lt;strong&gt;Vantage&lt;/strong&gt; bei &lt;strong&gt;Defense Rolls&lt;/strong&gt;.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Vulnerabilities&lt;/td&gt;
+          &lt;td&gt;Eine Schwachstelle auszunutzen verringert &lt;strong&gt;Thorns&lt;/strong&gt;, entfernt automatisch einen Würfel aus einem Pool oder lässt den Wurf gänzlich ausfallen. Manchmal muss man erst eine Schwachstelle finden um überhaupt anzugreifen.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Enemy Magic&lt;/td&gt;
+          &lt;td&gt;Magie von Feinden folgt nicht den selben Regeln für Spieler. Sie manifestiert sich durch &lt;strong&gt;Moves&lt;/strong&gt; und ist nur an die Fiktion gebunden.&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2&gt;Factions&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;factions&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#factions&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Seite 40&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Factions&lt;/strong&gt; können genutzt werden um entweder den Fortschritt von Fraktionen auf dem Weg zu ihrem Ziel, oder aber den Fortschritt von Dingen zu tracken, welche nicht immer aktiv in der Kampagne vorkommen, diese nennt man auch &lt;strong&gt;Campaign Pools&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Eine &lt;strong&gt;Faction&lt;/strong&gt; hat entweder &lt;strong&gt;Resources&lt;/strong&gt;, &lt;strong&gt;Goals&lt;/strong&gt; oder beides. &lt;strong&gt;Resources&lt;/strong&gt; sind im Endeffekt &lt;strong&gt;Traits&lt;/strong&gt; über welche die Fraktion verfügt, während &lt;strong&gt;Goals&lt;/strong&gt; als &lt;strong&gt;Faction Pools&lt;/strong&gt; ausgedrückt werden.&lt;/p&gt;
+&lt;p&gt;Wenn ein &lt;strong&gt;Faction Pool&lt;/strong&gt; geleert wird, erreichen sie entweder ihr &lt;strong&gt;Goal&lt;/strong&gt; oder machen einen &lt;strong&gt;Move&lt;/strong&gt; gegen eine andere &lt;strong&gt;Faction&lt;/strong&gt; mit einer &lt;strong&gt;Story Roll&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Sie können wie &lt;strong&gt;Linked Challenges&lt;/strong&gt; mehrere verlinkte &lt;strong&gt;Pools&lt;/strong&gt; haben.&lt;/p&gt;
+&lt;p&gt;Während einer Kampagne sollten ca. 4-6 größere und kleinere &lt;strong&gt;Factions&lt;/strong&gt; aufrecht sein und durch neue ersetzt werden wenn sie nicht mehr relevant sind.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/grimwild-faction-example.png&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;h3&gt;Campaign Pools&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;campaign-pools&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#campaign-pools&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Sind &lt;strong&gt;Pools&lt;/strong&gt; welche langzeit-Events tracken und den Spielleiter erinnern sollen, älteren Plot wieder einzuführen. Sie brauchen anders als &lt;strong&gt;Factions&lt;/strong&gt; keine &lt;strong&gt;Resources&lt;/strong&gt; oder &lt;strong&gt;Goals&lt;/strong&gt;. Sie können wie &lt;strong&gt;Linked Challenges&lt;/strong&gt; mehrere verlinkte &lt;strong&gt;Pools&lt;/strong&gt; haben.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Beispiele:&lt;/strong&gt; Mondfinsternis, Wyvern Migration, NPC sucht Rache&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/rules/grimwild/exploration-system/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/rules/grimwild/exploration-system/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Seite 82&lt;/p&gt;
+&lt;p&gt;Mit dem Exploration Systems von Grimwild, wird ein &lt;a href=&#34;https://thealexandrian.net/wordpress/48666/roleplaying-games/pointcrawls&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Pointcrawl&lt;/a&gt; erstellt. Spieler und Spielleiter kaufen mit &lt;strong&gt;Exploration Tokens&lt;/strong&gt; Pfade, Orte und Gegenden welche sie dann auf der Karte platzieren.&lt;/p&gt;
+&lt;h2&gt;Expand the Map&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;expand-the-map&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#expand-the-map&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Der Spielleiter bekommt einen neuen &lt;strong&gt;Move&lt;/strong&gt;, &lt;strong&gt;Expand the Map&lt;/strong&gt;. Dieser &lt;strong&gt;Move&lt;/strong&gt; kann jederzeit aktiviert werden, muss aber aktiviert werden wenn:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Die Party erreicht den Rand der bekannten Karte.&lt;/li&gt;
+&lt;li&gt;Der Narrative Fortschritt benötigt neue Pfade oder Orte.&lt;/li&gt;
+&lt;li&gt;Die Spieler möchten mehr zur Karte hinzufügen, bspw. am Start oder Ende einer Session.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Wenn der Spielleiter diesen &lt;strong&gt;Move&lt;/strong&gt; ausführt, bekommt jeder Spieler und der Spielleiter 3 &lt;strong&gt;Exploration Tokens&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Die Karte wird aufgezogen und jeder Spieler (egal in welcher Reihenfolge) fügt der Karte neue Details hinzu, bis alle &lt;strong&gt;Exploration Tokens&lt;/strong&gt; aufgebraucht sind.&lt;/p&gt;
+&lt;h3&gt;Earning Tokens&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;earning-tokens&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#earning-tokens&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Es gibt zusätzliche Wege um &lt;strong&gt;Exploration Tokens&lt;/strong&gt; zu gewinnen:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Signifikante Entdeckung:&lt;/strong&gt; Wenn ein Spieler etwas besonderes an einem Ort oder in einer Gegend entdeckt.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Im Tausch gegen Story:&lt;/strong&gt; &lt;strong&gt;Story&lt;/strong&gt; kann 1:1 gegen einen &lt;strong&gt;Exploration Token&lt;/strong&gt; ausgewechselt werden. Der Haken: der damit gekaufte &lt;strong&gt;Exploration Token&lt;/strong&gt; muss mit einem &lt;strong&gt;Wise&lt;/strong&gt; des Charakters verbunden sein und der Charakter erklärt wie er von diesem/r Ort/Gegend weiß.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Spending Tokens&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;spending-tokens&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#spending-tokens&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Jede Art von Karte (Region, Siedlung, Lokalität) hat verschiedene Kosten. Für gewöhnlich kostet ein &lt;strong&gt;Minor&lt;/strong&gt; Detail (Punkt oder Pfad) 1 Token und ein &lt;strong&gt;Major&lt;/strong&gt; Detail 2 Tokens. Pfade werden genutzt um Punkte zu verbinden oder in unbekanntes Territorium vorzustoßen.&lt;/p&gt;
+&lt;h2&gt;Region Maps&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;region-maps&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#region-maps&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Seite 84&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/grimwild-map-symbols-region.png&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Typ&lt;/th&gt;
+          &lt;th&gt;Kosten&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Minor Point&lt;/td&gt;
+          &lt;td&gt;1&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Minor Path&lt;/td&gt;
+          &lt;td&gt;1&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Major Point&lt;/td&gt;
+          &lt;td&gt;2&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Major Path&lt;/td&gt;
+          &lt;td&gt;2&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Curiosities&lt;/td&gt;
+          &lt;td&gt;3&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Barriers&lt;/td&gt;
+          &lt;td&gt;3&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Areas&lt;/td&gt;
+          &lt;td&gt;3 (kann vom Spielleiter gratis gesetzt werden)&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Rough Paths&lt;/td&gt;
+          &lt;td&gt;haben keine Kosten, sind aber schwierig zu durchqueren und gefährlich&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Passes&lt;/td&gt;
+          &lt;td&gt;können gratis als Teil eines Pfades gesetzt werden&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Wenn etwas auf die Karte gesetzt wird, muss es auch gelabeled werden. Ein paar Schlüsselwörter oder ein Name ist ausreichend. Die &lt;strong&gt;Crucibles&lt;/strong&gt; auf Seite 88 des Regelwerks können mit der Inspiration helfen. Zusätzlich zum Namen kann auch ein Tag mit &lt;code&gt;[Remnants], [Wilds] oder [Ruins]&lt;/code&gt; vergeben werden, um die Realität zu definieren, mit welcher der Ort in Verbindung hängt.&lt;/p&gt;
+&lt;p&gt;Wenn ein Pfad gesetzt wird, fügt der Spielleiter &lt;strong&gt;Waypoints&lt;/strong&gt; hinzu, welche jeweils einen Reisetag markieren. &lt;strong&gt;Major Paths&lt;/strong&gt; sind diese Punkte weiter auseinander gesetzt als bei &lt;strong&gt;Minor Paths&lt;/strong&gt; und &lt;strong&gt;Rough Paths&lt;/strong&gt; haben manchmal keine, da es schwer sein kann genau abzuschätzen wie lange die Reise dauern wird.&lt;/p&gt;
+&lt;h3&gt;Beispiele&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;beispiele&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#beispiele&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Typ&lt;/th&gt;
+          &lt;th&gt;Beispiel&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Settlement&lt;/td&gt;
+          &lt;td&gt;Dörfer, Stämme, Städte&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Site&lt;/td&gt;
+          &lt;td&gt;Point of Interest, Dungeons, Ruinen, einzigartige Naturmerkmale&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Danger&lt;/td&gt;
+          &lt;td&gt;Gefahr durch Monster, Natur oder andere Feinde&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Curiosity&lt;/td&gt;
+          &lt;td&gt;Unklare aber interessante Zeichen oder Information welche entdeckt werden kann&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Barrier&lt;/td&gt;
+          &lt;td&gt;Hindernisse in einer Reise, steile Klippen, reißende Flüsse, Berge; sie sind nur über &lt;strong&gt;Rough Paths&lt;/strong&gt; oder &lt;strong&gt;Passes&lt;/strong&gt; zu überqueren&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Area&lt;/td&gt;
+          &lt;td&gt;große, für gewöhnlich natürliche Gegend mit einem zentralen Thema (Sumpf, Vulkan, Wüste, etc.)&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Major Path&lt;/td&gt;
+          &lt;td&gt;ein gut instand gehaltener Pfad oder Handelsroute&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Minor Path&lt;/td&gt;
+          &lt;td&gt;kleinere Wege; Waldwege, Tierpfade etc.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Rough Path&lt;/td&gt;
+          &lt;td&gt;schwieriges und gefährliches Terrain; überwachsene Pfade, steinige Wege, trockene Flussbetten&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Pass&lt;/td&gt;
+          &lt;td&gt;Brücken, Tunnel, Bergpässe&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2&gt;Settlement Maps&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;settlement-maps&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#settlement-maps&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Seite 87&lt;/p&gt;
+&lt;p&gt;Auch hier wird der &lt;strong&gt;Move Expand the Map&lt;/strong&gt; angewandt. Der Spielleiter beginnt damit den Umriss der Stadt zu zeichnen, entweder als eine &lt;strong&gt;Barrier&lt;/strong&gt; (Stadtmauer) oder als einfachen &lt;strong&gt;Path&lt;/strong&gt; (Grenze).&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Typ&lt;/th&gt;
+          &lt;th&gt;Kosten&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Road&lt;/td&gt;
+          &lt;td&gt;1&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Building&lt;/td&gt;
+          &lt;td&gt;2&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Major Building&lt;/td&gt;
+          &lt;td&gt;3 (mit Großbuchstaben auf der Karte vermerkt)&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Curiosities&lt;/td&gt;
+          &lt;td&gt;3&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Barriers&lt;/td&gt;
+          &lt;td&gt;3&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Areas&lt;/td&gt;
+          &lt;td&gt;3 (kann vom Spielleiter gratis gesetzt werden)&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Passes&lt;/td&gt;
+          &lt;td&gt;können gratis als Teil eines Pfades gesetzt werden&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;In einer &lt;strong&gt;Settlement Map&lt;/strong&gt; stellen die &lt;strong&gt;Buildings&lt;/strong&gt; die &lt;strong&gt;Points of Interest&lt;/strong&gt; dar, entweder mit einem speziellen NPC oder mit einer einzigartigen Funktion. Wenn ein &lt;strong&gt;Building&lt;/strong&gt; nicht niedergeschrieben wird, ist es einfach nicht auffällig/relevant.&lt;/p&gt;
+&lt;h3&gt;Building Crucible&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;building-crucible&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#building-crucible&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/grimwild-building-crucible.png&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/rules/grimwild/exploration-system-examples/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/rules/grimwild/exploration-system-examples/</guid>
+      <description>
+        
+        
+        &lt;h2&gt;Region&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;region&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#region&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/grimwild-region-example.png&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;h2&gt;Settlement&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;settlement&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#settlement&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/grimwild-settlement-example.png&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;h2&gt;Site&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;site&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#site&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/grimwild-sites-example.png&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/rules/grimwild/examples-of-play/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/rules/grimwild/examples-of-play/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Seite 24&lt;/p&gt;
+&lt;p&gt;As you enter the small city, you remember your Settle Debts story arc and want to explore it. You spend story and declare that the father you never knew is here and you&amp;rsquo;ve carried this chip on your shoulder a long time—now&amp;rsquo;s the time to confront him.&lt;/p&gt;
+&lt;p&gt;Through play, you learn that your father has become a benevolent guild leader in the city, looked up to by all. Not very interested in bringing down someone helpful to the community, you bury the feelings and move on. You take spark for finishing the arc.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;You want to spend story to add a detail about the guard dozing off to create a new opportunity to sneak in, but the GM vetoes it—they established earlier that the Toadking runs a very disciplined army.
+While not impossible to occur, it still feels off.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Your party meets with the archmage, who reveals a dark secret about your past. The GM targets your Presence to keep it together, adding a thorn—the secret is especially damning. You roll 4, 1, 5 - 7 :: grim. You&amp;rsquo;re overwhelmed by memories, becoming rattled but choose to spend spark to take vex instead!&lt;/p&gt;
+&lt;p&gt;Now you have a choice. You could fight and attack the archmage in a rage, someone your party sees as an ally. You could flight away from the group, back outside the tower. You could freeze, dropping the potion you intended to give the archmage. You could freakout, lashing out at your allies&amp;rsquo; shocked, judgemental stares.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;The dragon roars! The party all roll Presence defense, getting grims. Everyone takes vex, terrified! You choose flight and scurry away to hide. The fighter decides to freakout, and runs to hide behind the wizard. The wizard freezes, dropping her spellbook, which the fighter kicks away. The cleric grabs his battlehammer and chooses to fight, charging towards certain doom.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;You start the game with the character arcs Enjoy Life and Keep a Secret, which makes sense since you&amp;rsquo;re the runaway heir to the Orchard Kingdom. Your job is to find ways to express these arcs through play, especially growth arcs like Enjoying Life.&lt;/p&gt;
+&lt;p&gt;The GM&amp;rsquo;s job is to challenge them and offer opportunity, especially a crisis arc like Keeping a Secret. It&amp;rsquo;s clear that you don&amp;rsquo;t want to live a life of responsibility, but that life will come calling whether you like it or not.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;You tell the GM you want to punch the guy in the face, so he calls for a Brawn roll. Confused, you rewind a bit and explain that you&amp;rsquo;re sucker punching him, and it&amp;rsquo;s mostly just to get him to back down. Seeing the situation more clearly now, the GM calls for Agility.&lt;/p&gt;
+&lt;p&gt;With an Agility of 2, you roll 2d and get 3, 5 :: messy. You&amp;rsquo;re going to do it, but the GM makes an impact move. That guy will be back with some friends. The GM starts a 4d Hooligans timer. The fighter grabs the orc by the shirt and threatens him, but the orc&amp;rsquo;s not budging. The GM makes his impact move—the price for the horses just doubled, and you all have nowhere near enough treasure.&lt;/p&gt;
+&lt;p&gt;You step up and try a softer approach, negotiating with Presence at +1t from the price doubling. You roll 3d1t and get 4, 6, 6 - 7 :: critical! In spite of the price, your critical ignores the cut. You get the horses for the cost of the treasure and choose a secondary effect—you want to make sure this orc remains friendly permanently. The GM okays it and you&amp;rsquo;re now friends with the best horse trader this side of the Ironback Mountains.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;You want to climb up this cliff to get away from the goblins shooting arrows at you. The GM has you roll Agility and adds a thorn to represent the goblins. You roll a 5 - 7 :: grim. Your messy gets cut by the 7 and turns into a grim. The GM lets you know you&amp;rsquo;re getting an arrow in your back and falling back down the wall, ending up bloodied. You start gleefully narrating how horribly it goes.&lt;/p&gt;
+&lt;p&gt;You decide to make a second attempt. This time, you spend spark and now have another thorn from being bloodied. You roll 2d2t and get 6, 3 - 7, 1 :: messy. The messy means you did it, so the GM thinks on the consequences and makes you rattled. That was one scary as hell climb. Once again, you get to narrating your near-demise.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;You&amp;rsquo;re walking through the library at night when an assassin strikes from above. This could be Wits to see it coming, but the GM thinks it&amp;rsquo;s more of a physical reaction, Agility. The GM makes it clear this is dire stakes—a grim means you&amp;rsquo;re dropped, maybe dead!&lt;/p&gt;
+&lt;p&gt;You take +1t since the assassin has the drop on you. You get 6, 1 - 8 :: messy! The knife misses and you don&amp;rsquo;t end up bloodied, but Brawn gets marked as the assassin crashes into you, knocking the wind out of you. You&amp;rsquo;re both sprawled out on the ground, the knife now between you. What do you do?&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;As the session winds to a close, the GM calls for a montage roll to escape the collapsing dungeon. You&amp;rsquo;re bloodied, so you have a thorn and roll 1, 1 :: 7, disaster. The wizard in your group rolls 2, 2 :: grim. The fighter rolls a 4, 2 :: messy! The best outcome is a messy, so the overall outcome is a messy. You manage to get out, but the impact move leaves you each with Agility and Presence marked. You collaborate on the narration.&lt;/p&gt;
+&lt;p&gt;You already have an Agility mark, so it goes to Brawn—that&amp;rsquo;s marked, too, so it goes to bloodied. Unfortunately, you were also bloodied so you&amp;rsquo;re instead dropped. You make a 2d roll and get a messy, completely knocked out.&lt;/p&gt;
+&lt;p&gt;The wizard describes getting everyone lost in the tunnels. You narrate collapsing from your wounds, telling the group to leave you behind. The fighter refuses, hoists you over their shoulder, and heads in a single direction—and somehow finds their way to the surface!&lt;/p&gt;
+&lt;p&gt;Outside, the rogue stands waiting and cheekily asks what took you so long. They were elsewhere and got a perfect on their montage.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;You have a special pack of blessed incense you brought from your home temple. It&amp;rsquo;s a 4d resource pool. Each time you use it, it triggers a roll to see how much is remaining. The first time you use it, you roll 4d and get 6, 2, 6, 4. The 2 result drops the pool by 1, 4d→3d. The next time you use it, you roll 3d and get 4 5 5. Nothing is dropped from the pool! While you did use it, the pool&amp;rsquo;s an abstract measurement of how much is remaining and doesn&amp;rsquo;t change this time. The final time, though, you roll 3d again and get 2 1 2, 3d→0d. The pool depletes and you&amp;rsquo;re out of incense!&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;You and the cleric, as honored prisoners, are hauled out to join the chieftain at the head table. The GM has made it clear that the chieftain angers easily, so they start a 4d Temper pool. You find a chance during the meal to try to persuade the chieftain to let you go, but
+roll a grim. Annoyed with your badgering, they bash the table and gesture for the guards to haul you back to your tent. This triggers the Temper pool and the GM rolls 1, 3, 1, 6 :: 4d→1d. With just 1d left, the GM makes sure to describe the chieftain being on the edge
+of losing it. The cleric decides to keep their mouth shut.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;You look to your desire for belonging and, feeling found at last, replace it with a new one—honor. You introduce a tangle, deciding to stay on the bridge. &amp;ldquo;Go,&amp;rdquo; you tell your friends, turning to hold off the horde on the bridge while they escape.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;The heir must survive as the battle turns into a rout. Just then, you introduce a tangle—you spot your nemesis, Mortica, across the battlefield. By choosing the tangle, you risk the mission to protect the heir, but your vengeance is more important. You take spark.&lt;/p&gt;
+&lt;p&gt;The GM decides to make a 2d story roll and lets you know first what might happen. On a perfect, you spot her first. On a grim, she spots you first. On a messy, you both spot each other.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Fleeing from a massive cave troll, you spend story and invoke your Dwarf of the Deepmoot heritage&amp;rsquo;s underground navigation wise. You say you spot a tight side tunnel to lead the troll in to fight it. The GM decides the cave troll can&amp;rsquo;t maneuver well and +2t becomes +1t.&lt;/p&gt;
 
       </description>
     </item>

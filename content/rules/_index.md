@@ -1,5 +1,5 @@
 ---
-title: Pen & Paper Grimoire
+title: Regeln
 layout: hextra-rules
 ---
 
