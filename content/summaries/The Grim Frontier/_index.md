@@ -2,6 +2,4 @@
 title: The Grim Frontier
 ---
 
-{{< cards >}}
-  {{< card link="./summary-session-1" title="Session 1" >}}
-{{< /cards >}}
+Die Abenteuer von Big-Arm Brenda, Celeste, Christian, Extreme Toad, Frida Fummel und Huberto Keeling.
