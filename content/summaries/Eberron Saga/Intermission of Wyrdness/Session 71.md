@@ -1,0 +1,31 @@
+---
+session-date: undefined
+---
+
+Nachdem der Wächterdrache besiegt ist, macht sich Erleichterung breit. Ein paar Heiltränke später findet Jin einen kleinen Schatz der Druiden und das Blut des Drachen wird aufgesammelt.
+
+Ein wenig der magischen Energie wird der Party eigen und es manifestieren sich neue Fähigkeiten. Tuma fabriziert für Tiavena zwei goldene Drachenklauen welche im Magen ein feines Sümmchen einbringen werden.
+
+Nachdem in der Höhle ein Lager aufgeschlagen ist, stimmen Jin und Tiavena ein fröhliches Lagerfeuerlied an. Ein wenig Schlaf ist der Party vergönnt, die Ruhe hält jedoch nicht lang.
+
+Das steinerne Tor der Höhle wird von einer Explosion in Stücke gerissen und herein bricht eine Einheit der Kaltheim-Agentur, angeführt von einem grimmigen Dunkelelfen, Lord Rowling. In seiner Hand hält er die Ketten von Jum und Gorm welche wohl zuvor geschnappt wurden.
+
+Lord Rowling verkündet er sei gekommen um die Party zu ihrer gerechten Strafe zu führen. Er gibt ihnen 5 Sekunden und lässt dann seine Männer das Feuer eröffnen. Die Männer der Kaltheim-Agentur sind hochspezialisiert und erweisen sich als große Gefahr.
+
+Im Gemetzel macht Hellios sich unsichtbar und Tuma lässt Jin und sich selbst mit dem Staub des Verschwindens untertauchen.
+
+Während D.O.G. für Ablenkung sorgt, erklimmt Hellios die Wand auf dem Weg zum Loch in der Decke. Als er D.O.G. jedoch versucht zu sich hochzuziehen werden die Soldaten auf ihn aufmerksam und schießen ihn von der Wand. er ist bewusstlos und wird in Ketten gelegt.
+
+Jin beeinflusst Pflanzen um ihn an eine vermeintlich sichere Spalte in der Höhle zu ziehen. Leider sind die Feinde sehr gründlich beim Durchsuchen der Höhle sehr gründlich und schnappen auch ihn.
+
+Tuma wirkt einen Zauber um sich in Gas zu verwandeln und gleitet als einzige ungesehen aus der Höhle. Sie trifft auf Ron Riesenwiesel, welcher wohl als einziges Reittier davongekommen ist. Tuma kann beobachten wie ihre Freunde in einem Gefängniskarren davongebracht werden.
+
+Sie folgt der Kaltheim-Agentur mit einigem Abstand und macht auf dem Weg nach Gratek einen Zwischenstopp bei den Druiden.
+
+Diese wurden ebenfalls von den Soldaten überfallen und im Eifer des Gefechts gelang es Marius sich das Blutwurzel-Manifest anzueignen. Tuma bittet Häuptling Revish an Marius Vernunft zu appelieren, der Häuptling ist aber sichtlich schlechter Dinge.
+
+Auf den Weg in den Kerker der kaltheim-Agentur im Magen der Stadt spürt Jin erneut die Präsenz von Trey. Er scheint in kurzer Zeit mächtiger geworden zu sein und Jin wird das flaue Gefühl nicht los, dass auch er etwas mit diesen Soldaten zu tun hat.
+
+Tuma kommt einen Tag nach den Truppen in Gratek an und findet die Taverne zum dreckigen Schwein als nichts weiter als ein verbranntes Loch in einem Mienenschacht vor. Als sie durch die Asche in das alte Zimmer der Party steigt findet sie eine Nachricht an die verbrannte Tür genagelt:
+
+_Bring die Maschine zurück oder die Frau und deine Freunde werden sterben. Mitternacht 28. Lharvion, Deeper King’s Crown Heavy Industries_
