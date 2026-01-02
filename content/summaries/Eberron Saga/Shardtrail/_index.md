@@ -1,5 +1,7 @@
 ---
 title: Shardtrail
+cascade:
+  type: docs
 weight: 1
 ---
 
