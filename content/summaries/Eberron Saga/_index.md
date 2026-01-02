@@ -20,3 +20,14 @@ Nach den vorhergehenden Ereignissen müssen die drei Helden untertauchen. Sie sc
 
 #### 3. Intermission of Wyrdness
 Die Ereignisse im Bezirk Fallen führen die Gruppe zu einem unerwarteten Ort mit neuen Gefährten. Eine sich ausbreitende Seuche kann nur von den Helden der Prophezeiung und mit dem Segen der Natur gebannt werden. Um den Krieg zu gewinnen muss das Land unter einen Banner gebracht werden.
+
+
+### Die Abenteurer
+
+{{< cards >}}
+  {{< card title="HELLiOS One" image="/images/Hellios.webp" subtitle="Warforged Artificer"  method="Resize" options="400x400" >}}
+  {{< card title="Tuma'nogra" image="/images/tuma.webp" subtitle="Half-Orc Wizard"  method="Resize" options="400x400" >}}
+  {{< card title="Finbar Stoirm aka Barry McCockiner" image="images/Barry.webp" subtitle="Half-Elf Sorcerer/Cleric"  method="Resize" options="400x400" >}}
+  {{< card title="Holden McGroin" image="/images/holden.webp" subtitle="Human Fighter/Ranger"  method="Resize" options="400x400" >}}
+  {{< card title="Jin Infel" image="images/jin.webp" subtitle="Changeling Sorcerer"  method="Resize" options="400x400" >}}
+{{< /cards >}}
