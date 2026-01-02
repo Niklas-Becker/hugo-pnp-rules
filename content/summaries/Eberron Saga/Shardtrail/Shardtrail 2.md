@@ -1,5 +1,5 @@
 ---
-title: Shardtrail 1
+title: Shardtrail 2
 ---
 
 ## Das stürzende Schiff
@@ -13,6 +13,11 @@ Gemeinsam schafft ihr es, unter der Pilotenkajüte ein Loch in das Schiff zu sch
 
 Der gerettete Pilot ist euch dankbar und kann euch sagen, dass der Anführer der Banditen Tarvin hieß. Nachdem ihr noch von ein paar Wachen zu dem zerstörten Luftschiff verhört werdet, begebt ihr euch zur Rast zurück in eure Unterkunft. Zu eurem Schrecken müsst ihr feststellen, dass Bybs sich befreit hat und geflohen ist. Derrian nimmt allein die Verfolgung auf.
 
+{{< figure
+    src="/images/Airship.webp"
+    link="https://eberron.fandom.com/wiki/Elemental_airship"
+    caption="Elementares Luftschiff"
+>}}
 
 ## Ermittlungen am Schwarzmarkt
 Eure weiteren Nachforschungen treiben euch dorthin, wo man Schurken öfter vermutet, zum lokalen Schwarzmarkt. Zwielichtige Gestalten sind schnell gefunden und ihr gelangt über die Taverne "das stinkende Einhorn" in Cogsgate, im untersten Teile der Stadt tatsächlich dorthin.
@@ -30,3 +35,9 @@ Derrian erzählt euch, dass er Bybs im stinkenden Einhorn gefunden hat, von ihm 
 Tuma möchte, dass ihre Studien-Freundin Diamanta ihr Notizbuch zurückbekommt und schickt Derrian los um es ihr zur Morgrave Universität zu bringen. Sie bekommt einen Brief zurück, sie solle sie doch besuchen kommen wenn alles geregelt ist, dann kann sie ihr die Morgrave Universität und ihren Vorgesetzten, den genialen Prof. Haragut Drogan vorstellen.
 
 Am Abend darauf versucht ihr nocheinmal euer Glück im stinkenden Einhorn und begegnet Bybs gerade in einem Armdrück-Wettbewerb. Er scheint nun etwas kooperativer, anscheinend hat er nun bereits mit seinem Boss Rücksprache bezüglich euch gehalten. Er bietet euch an, euch in zwei Tagen zu Tarvin zu bringen, ihr könntet euch gegenseitig unterstützen.
+
+{{< figure
+    src="/images/Rinna.webp"
+    link="https://www.artstation.com/artwork/K2Yqr"
+    caption="Rinna van Dohlheim"
+>}}

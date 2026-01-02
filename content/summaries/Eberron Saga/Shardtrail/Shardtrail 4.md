@@ -1,5 +1,5 @@
 ---
-title: Shardtrail 1
+title: Shardtrail 4
 ---
 
 ## Schwarze Schafe am Schwarzmarkt
@@ -17,6 +17,11 @@ Eine harte Verfolgungsjagd beginnt, leider schafft ihr es nicht der Horde zu ent
 
 Eure Ausrüstung befindet sich zu einem Teil in einem versperrten Kasten hinter Harry, zum anderen Teil wurde euer Zeug verkauft um für die Schäden aufzukommen, welche ihr dem Tiefengnom zugefügt habt.
 
+{{< figure
+    src="/images/spectator.webp"
+    link="https://forgottenrealms.fandom.com/wiki/Spectator"
+    caption="Der Wärter des Schwarzmarkts, Harry"
+>}}
 
 ## In der Höhle des Löwen
 Dem Schwarzmarkt nur knapp entkommen, trefft ihr euch mit Rinna, welche euch zu einem unscheinbaren Buchladen in einer winzigen Seitengasse führt. Durch einen Geheimgang in einem Bücherregal gelangt ihr in eine große unterirdische Unterkunft der Smaragd Kralle. Ihr macht sogleich Bekanntschaft mit dem Anführer der Unterkunft Standartenführer Ignatz van Dohlheim und sein untergebener Hauptmann Skelett-Ritter Hans.
@@ -29,6 +34,13 @@ Ihr gebt euer Bestes um euch unter den Rekruten einzublenden und geht in der Unt
 
 Tuma und Barry krallen sich noch einige Drachenscherben, während Hellios für Ablenkung sorgt und alle Mitglieder mithilfe zweier Eber in Aufruhr versetzt. Ihr flieht durch das Portal in den Amboss und verbrennt den Kasten, in dem das Portal liegt hinter euch. Ihr zahlt bei eurem Auszug aus dem Amboss ein bisschen Extra, damit euch der Inhaber "vergisst."
 
+{{< figure
+    src="/images/Dragonmarks_of_Death.webp"
+    link="https://eberron.fandom.com/wiki/Mark_of_Death"
+    caption="Die Ausprägungen des Drachenmal des Todes"
+>}}
+
+
 ## Neue Chancen
 Da euch noch ein paar Drachenscherben fehlen, begebt ihr euch zum Bazaar und versucht dort welche aufzutreiben. Dort werdet ihr von einem Händler von Kuriositäten angesprochen, dem Tabaxi Kahjid. Ihr schlüpft mit ihm in seinen magische Topf und er handelt mit euch im Austausch gegen ein paar Geschichten. Dabei könnt ihr ein paar Drachenscherben und ein Deck der Schicksalskarten ergattern. 
 
@@ -37,3 +49,9 @@ Als ihr aus seinem Topf herauskommt verschwindet er prompt und ihr zieht eure er
 Nun kehrt ihr zu Calc zurück um die Dragonshards abzuliefern. Calcs Büro wurde jedoch von der Deathsgate Gilde zerstört. Ihr werdet trotzdem zum Fariaci Corps aufgenommen und erhaltet eure Mitgliedskarten. Nachdem ihr Calc die Situation erklärt habt, entscheidet ihr euch, dass es besser wäre für einige Zeit unterzutauchen.
 
 Gemeinsam mit Tuma besucht ihr ihre alte Studienkollegin Diamanta Coldspring auf der Morgrave-Universität und als ihr Vorgesetzter Professor von eurer Geschichte hört, bietet er euch Arbeit an. Ihr begleitet ihn auf ein Forschungsexperiment in den Fallen Distrikt.
+
+{{< figure
+    src="/images/Fool.webp"
+    link="https://forgottenrealms.fandom.com/wiki/Deck_of_many_things"
+    caption="Der Narr"
+>}}

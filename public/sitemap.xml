@@ -16,14 +16,6 @@
   </url><url>
     <loc>http://localhost:1313/rules/grimwild/examples-of-play/</loc>
   </url><url>
-    <loc>http://localhost:1313/summaries/eberron-saga/shardtrail/shardtrail-1/</loc>
-  </url><url>
-    <loc>http://localhost:1313/summaries/eberron-saga/shardtrail/shardtrail-2/</loc>
-  </url><url>
-    <loc>http://localhost:1313/summaries/eberron-saga/shardtrail/shardtrail-3/</loc>
-  </url><url>
-    <loc>http://localhost:1313/summaries/eberron-saga/shardtrail/shardtrail-4/</loc>
-  </url><url>
     <loc>http://localhost:1313/summaries/the-grim-frontier/summary-session-1/</loc>
   </url><url>
     <loc>http://localhost:1313/summaries/the-grim-frontier/summary-session-2/</loc>
@@ -45,6 +37,14 @@
     <loc>http://localhost:1313/</loc>
   </url><url>
     <loc>http://localhost:1313/rules/</loc>
+  </url><url>
+    <loc>http://localhost:1313/summaries/eberron-saga/shardtrail/shardtrail-1/</loc>
+  </url><url>
+    <loc>http://localhost:1313/summaries/eberron-saga/shardtrail/shardtrail-2/</loc>
+  </url><url>
+    <loc>http://localhost:1313/summaries/eberron-saga/shardtrail/shardtrail-3/</loc>
+  </url><url>
+    <loc>http://localhost:1313/summaries/eberron-saga/shardtrail/shardtrail-4/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/summary/</loc>
   </url><url>

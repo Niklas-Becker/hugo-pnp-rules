@@ -9,6 +9,11 @@ Etwas südlich von Hatheril, habt ihr eine kleine Ausgrabung überwacht bei dene
 
 Nachdem rund ein dutzend Drachenscherben geborgen waren, seid ihr in Wroat wieder in die Schienenblitz gestiegen und habt euch auf den Weg nach Sharn gemacht, wo Calc auf euch wartet. Der Warforged ist euer direkter Kontakt mit dem Fariaci Corps und hat euch diesen Auftrag zugeteilt. Ihr befindet euch jetzt auf dem direkten Weg zur größten Stadt Khorvaires, Sharn die Stadt der Türme. 
 
+{{< figure
+    src="/images/lighnting-rail.webp"
+    link="https://eberron.fandom.com/wiki/Lightning_rail"
+    caption="Der Schienenblitz"
+>}}
 
 ## Überfall auf dem Schienenblitz
 Die angenehme Reise in im Privatabteil des Schienenblitz wird unterbrochen, als eine kleine Gruppe von Banditen die Tür aufbrechen und euch um euer Hab und Gut erleichtern wollen. Glücklicherweise, seid ihr Abenteurer.
