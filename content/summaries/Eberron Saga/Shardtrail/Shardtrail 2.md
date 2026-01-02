@@ -1,3 +1,7 @@
+---
+title: Shardtrail 1
+---
+
 ## Das stürzende Schiff
 Nach der Ankunft in Sharn begebt ihr euch erstmal zu Calc, eurem Auftraggeber. Auf dem Weg dorthin schaffen es zwei der drei Gefangenen mithilfe eines Federfall Zaubers zu entkommen. Bybs wird dabei vorerst von Hellios abgehalten zu fliehen.
 

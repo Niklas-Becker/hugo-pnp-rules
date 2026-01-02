@@ -1,3 +1,6 @@
+---
+title: Shardtrail 1
+---
 
 ## Das Ende der Reise
 Ihr befindet euch gerade auf dem Heimweg von eurer letzten Mission. Die letzten paar Wochen habt ihr hart darauf hingearbeitet in den Fariaci Corps aufgenommen zu werden. Der Fariaci Corps ist eine Untergruppe der Wayfinder Foundation, der größten Abenteurergilde in Khorvaire, und wurde von einem derer Mitglieder gegründet. Nach erfolgreichem Abschluss eures jetztigen Auftrags, wurde euch die Aufnahme in den Fariaci Corps gesichert. In Zukunft müsst ihr euch keine Gedanken mehr darüber machen wo eine Mahlzeit oder ein Dach über dem Kopf für euch herkommt. Die Gilde zahlt ein angemessenes Gehalt, welches durch diverse Aufträge leicht aufgebessert werden kann. 

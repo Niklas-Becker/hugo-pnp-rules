@@ -1,3 +1,7 @@
+---
+title: Shardtrail 1
+---
+
 ## Das High-Fisch Kartell
 Bybs führt euch zu einem dubiosen Basaar und in die Opiumhöhle "der qualmende Phönix" wo ihr seinen Boss treffen sollt. Tarvin macht euch ein Angebot, denn er weiß dass ihr in einer prekären Situation seid. Ihr löst für ihn einen aufsteigenden Drogenring im Hafenviertel Grayflood auf und ihr bekommt die Info wer den Auftrag gegeben hat, die Drachenscherben zu stehlen.
 

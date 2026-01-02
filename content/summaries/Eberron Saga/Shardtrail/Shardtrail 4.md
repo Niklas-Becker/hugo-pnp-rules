@@ -1,3 +1,7 @@
+---
+title: Shardtrail 1
+---
+
 ## Schwarze Schafe am Schwarzmarkt
 Nach eurem Ausflug in die Kanäle, begebt ihr euch zurück zu Tarvin. Nachdem ihr euren Auftrag erfolgreich ausgeführt habt erzählt er euch, dass er die Drachenscherben an einen alten Nekromanten ausgeliefert hat. 
 
