@@ -1,5 +1,6 @@
 ---
-title: Eberron Saga
+title: Intermission of Wyrdness
+weigth: 3
 ---
 
 Die Abenteuer von HELLiOS One, Tuma'nogra, Gimli Hendrix und Tuff Wellwalk.

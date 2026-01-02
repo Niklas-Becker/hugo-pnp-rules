@@ -1,5 +1,6 @@
 ---
-title: Eberron Saga
+title: Eldritch Expedition
+weight: 2
 ---
 
 Die Abenteuer von HELLiOS One, Tuma'nogra, Gimli Hendrix und Tuff Wellwalk.
