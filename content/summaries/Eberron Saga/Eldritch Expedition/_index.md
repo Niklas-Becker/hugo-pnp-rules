@@ -14,5 +14,5 @@ Die Abenteuer von HELLiOS One, Tuma'nogra und Holden McGroin und ehemals Finbar 
 
 ### Gefallene Abenteurer
 {{< cards >}}
-  {{< card title="Finbar Stoirm aka Barry McCockiner" image="images/Barry.webp" subtitle="Half-Elf Sorcerer/Cleric"  method="Resize" options="400x400" >}}
+  {{< card title="Finbar Stoirm aka Barry McCockiner" image="images/barry.webp" subtitle="Half-Elf Sorcerer/Cleric"  method="Resize" options="400x400" >}}
 {{< /cards >}}
