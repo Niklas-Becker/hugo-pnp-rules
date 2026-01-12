@@ -1,5 +1,5 @@
 ---
-session-date: undefined
+session-date: 2025-06-27
 ---
 
 Nachdem der Wächterdrache besiegt ist, macht sich Erleichterung breit. Ein paar Heiltränke später findet Jin einen kleinen Schatz der Druiden und das Blut des Drachen wird aufgesammelt.
