@@ -20,9 +20,13 @@ Die ruhige Rückreise von einem Auftrag des Fariaci-Corps auf dem Schienenblitz 
 **Sessions 12-29**
 Nach den vorhergehenden Ereignissen müssen die drei Helden untertauchen. Sie schließen sich der Expedition von Professor Haragut Drogan an und erkunden den durch den Krieg zerrüttelten Bezirk Fallen.
 
-#### 3. Intermission of Wyrdness - The Becoming
+#### 3. Intermission of Wyrdness
 **Sessions 30-47**
 Die Ereignisse im Bezirk Fallen führen die Gruppe zu einem unerwarteten Ort mit neuen Gefährten. Eine sich ausbreitende Seuche kann nur von den Helden der Prophezeiung und mit dem Segen der Natur gebannt werden.
+
+{{< callout >}}
+  [Wyrd](https://en.wikipedia.org/wiki/Wyrd) is a concept in Anglo-Saxon culture roughly corresponding to fate or personal destiny.
+{{< /callout >}}
 
 #### 4. Intermission of Wyrdness - Call To Arms
 **ab Session 48**

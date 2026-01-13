@@ -3,6 +3,10 @@ title: Intermission of Wyrdness
 weigth: 3
 ---
 
+{{< callout >}}
+  [Wyrd](https://en.wikipedia.org/wiki/Wyrd) is a concept in Anglo-Saxon culture roughly corresponding to fate or personal destiny.
+{{< /callout >}}
+
 Die Abenteuer von HELLiOS One, Tuma'nogra, Gimli Hendrix und Tuff Wellwalk.
 
 {{< cards >}}
