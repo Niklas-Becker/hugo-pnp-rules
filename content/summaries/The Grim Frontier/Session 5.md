@@ -23,9 +23,3 @@ Ariel und Celeste fangen einige Ratten für den Drachen, er ist begeistert von d
 Spät in der Nacht, im dunklen vor unerwünschten Augen verborgen, gibt ein Mann einigen neuen Wachen Anweisungen am Hauptplatz. Sie bergen die drei Zwergen-Zombies aus dem Brunnen und lassen sie mit einem Wagen aus der Stadt ziehen.
 
 Früh morgens stehen alle außer Christian auf und machen sich auf den Weg zurück zur Höhle. Einige Wertgegenstände müssen ja noch "geborgen" werden, bevor sie dort mit Captain Morris hingehen. Christian genehmigt sich ein ausgiebiges Frühstück in der Taverne, stolpert aber auf dem Weg dorthin in eine rothaarige Frau und ihre zwei grimmig dreinsehende Begleiter. Sie erkundigt sich, wo denn die örtliche Wache sei und macht sich dann mit ihren Begleitern auf den Weg dorthin. 
-
-```json
-{
-  "message": "Workflow was started"
-}
-```
