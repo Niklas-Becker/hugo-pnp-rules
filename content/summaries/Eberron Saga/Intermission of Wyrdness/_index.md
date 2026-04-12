@@ -3,13 +3,17 @@ title: Intermission of Wyrdness
 weigth: 3
 ---
 
+{{< callout >}}
+  [Wyrd](https://en.wikipedia.org/wiki/Wyrd) is a concept in Anglo-Saxon culture roughly corresponding to fate or personal destiny.
+{{< /callout >}}
+
 Die Abenteuer von HELLiOS One, Tuma'nogra, Gimli Hendrix und Tuff Wellwalk.
 
 {{< cards >}}
   {{< card title="HELLiOS One" image="/images/Hellios.webp" subtitle="Warforged Artificer"  method="Resize" options="400x400" >}}
   {{< card title="Tuma'nogra" image="/images/tuma.webp" subtitle="Half-Orc Wizard"  method="Resize" options="400x400" >}}
   {{< card title="Tuff Wellwalk" image="images/barry.webp" subtitle="Half-Elf Sorcerer/Cleric"  method="Resize" options="400x400" >}}
-  {{< card title="Gimli Hendrix" image="/images/holden.webp" subtitle="Human Fighter/Ranger"  method="Resize" options="400x400" >}}
+  {{< card title="Gimli Hendrix" image="/images/Gimli-Hendrix.webp" subtitle="Human Fighter/Ranger"  method="Resize" options="400x400" >}}
 {{< /cards >}}
 
 
